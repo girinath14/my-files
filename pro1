@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie & Series Suggestions</title>
+    <link rel="stylesheet" type="text/css" href="pro2.css">
+    </head>
+<body>
+    <header>
+        <h1>Tv Series Suggestions</h1>
+    </header>
+    <div id="content">
+        <h2>Popular Series</h2>
+        <div class="movie-card">
+            <img alt="Harry Potter and the Sorcerer's Stone" class="loadlate" data-tconst="tt0241527" height="209" src="https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UY209_CR1,0,140,209_AL_.jpg" width="140"><br>
+            <a href="">Harry Potter and the Sorcerer's Stone</a>
+            <p>Release Year: 2001</p>
+            <p>Genre: Adventure, Family, Fantasy</p>
+            <p>Chris Columbus</p>
+            <p>Summary: An orphaned boy enrolls in a school of wizardry, 
+                where he learns the truth about himself, his family and the terrible
+                 evil that haunts the magical world.</p>
+        </div>
+
+        <h2>Top Picks</h2>
+        <div class="movie-card">
+            <img alt="The Dark Knight" class="loadlate" data-tconst="tt0468569" height="209" src="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg" width="140"><br>
+            <a href="">The Dark Knight</a><br>
+            <p>Release Year: 2022</p>
+            <p>Genre: Drama</p>
+        </div>
+        <div class="movie-card">
+            <a href="">Movie Title 2</a>
+            <p>Release Year: 2021</p>
+            <p>Genre: Comedy</p>
+        </div>
+        <div class="movie-card">
+            <a href="">Movie Title 2</a>
+            <p>Release Year: 2020</p>
+            <p>Genre: Sci-Fi</p>
+        </div>
+    </div>
+
+    <script>
+        // You can add JavaScript functionality here
+    </script>
+</body>
+</html>
